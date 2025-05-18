@@ -1,0 +1,22 @@
+vim: set filetype=nroff:
+
+
+
+
+[REPORTING BUGS]
+Please open a ticket at <\fIhttps://github.com/step-/makesymlinks/issues\fR>.
+
+
+
+
+[AUTHORS]
+.LP
+Copyright (C) 2025 step <https://github.com/step->
+
+
+
+
+[SEE ALSO]
+.LP
+symlinks(8)
+
